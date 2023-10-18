@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+.pythonwin
+.pywin32-306.dist-info
+.pywin32_system32
+.selenium
+.wheel
+.win32com
+.wsproto
+
 # User-specific files
 *.rsuser
 *.suo
